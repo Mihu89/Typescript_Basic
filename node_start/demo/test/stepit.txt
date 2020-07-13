@@ -1,0 +1,2 @@
+Hello from Nodejs
+Soon will start lesson two	 Are you ready ?
